@@ -1,6 +1,8 @@
 # LC-AtlasAvatars
 Repository for Mod. More so for any issue reporting.
 
+I am unsure on what license so I chose what I thought best. Don't jump me pls
+
 **This is a ModelReplacementAPI Template Project**
 
 **Skins Currently Included:**
